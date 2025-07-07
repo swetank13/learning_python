@@ -1,2 +1,2 @@
 # learning_python
-All Python concept required in Data Engineering and Data Science
+All Python concepts required in Data Engineering and Data Science
